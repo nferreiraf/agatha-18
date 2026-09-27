@@ -1,0 +1,10 @@
+CONVITE AGATHA NAÉLY — 18 ANOS
+
+Esta pasta já está preparada como uma página web: o arquivo principal é index.html.
+
+Para publicar e obter um link HTTPS que funcione no iPhone:
+1. Envie a pasta Agatha18_Web para um serviço de hospedagem de páginas estáticas.
+2. O arquivo que deve ficar na raiz é index.html.
+3. Abra o link HTTPS no Safari do iPhone.
+
+A página não depende de fotos ou de arquivos externos para o funcionamento principal; a música está incorporada no próprio HTML.
